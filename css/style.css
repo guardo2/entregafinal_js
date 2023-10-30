@@ -1,0 +1,55 @@
+body {
+    font-family: 'Pixelify Sans', sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    background-color: #0E1117;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 18px;
+    
+}
+
+#apuestaInput {
+    font-family: 'Pixelify Sans', sans-serif;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#apostarButton {
+    font-family: 'Pixelify Sans', sans-serif;
+    padding: 5px 10px;
+    font-size: 15px;
+    background-color: #083a0c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#apostarButton:hover {
+    background-color: #a51111;
+}
+
+#resultado {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 16px;
+    margin: 5px 0;
+}
